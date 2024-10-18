@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b33830d47b98ae84c91372294ca24cf8, type: 3}
+  m_Name: MagicVolt_LvData
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemID: 2
+  itemName: MagicVolt
+  itemDescription: "\uB300\uBBF8\uC9C0 {0}% \uC99D\uAC00\n"
+  itemIcon: {fileID: 6487436360353506532, guid: 80989600223e21e4ab8ef393cde99488, type: 3}
+  baseDamage: 1
+  baseCount: 1
+  damage_Enhancing:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  count_Enhancing: 0000000001000000000000000100000000000000010000000000000000000000
+  projectile: {fileID: 3456020442041018833, guid: 0da5319fd6fd9af4e8680b3c95baa207, type: 3}
