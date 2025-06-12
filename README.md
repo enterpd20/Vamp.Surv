@@ -1,12 +1,12 @@
 ![Image](https://github.com/user-attachments/assets/8b2754c5-5fa6-4f12-a96c-6e1ddc3ed631)
 
-# Vampire Survivor: Colosseum [<img src="https://github.com/user-attachments/assets/a6a32091-a55b-4721-adbb-38c79cea22f3"  width="40" height="30"/>](https://youtu.be/6krxvdsdVLs)
+# Vampire Survivor: Colosseum [1인 개발 프로젝트] [<img src="https://github.com/user-attachments/assets/a6a32091-a55b-4721-adbb-38c79cea22f3"  width="40" height="30"/>](https://youtu.be/6krxvdsdVLs)
 
 ## 1. Project Overview [프로젝트 개요]
 
 인디 게임 Vampire Survivors의 모작입니다.
 
-Unity 2D로 1인 개발을 진행했습니다.
+Unity 2D 캐주얼 게임입니다.
 
 개발 기간: 24.06.13 ~ 24.06.21
 
