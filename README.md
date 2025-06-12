@@ -4,7 +4,7 @@
 
 ## 1. Project Overview [프로젝트 개요]
 
-Unity 2D Personal Project - Vampire Survivor 모작
+**1인 개발 Unity 2D Personal Project** - Vampire Survivor 모작
 
 개발 기간: 24.06.13 ~ 24.06.21
 
