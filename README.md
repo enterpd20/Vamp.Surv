@@ -4,7 +4,9 @@
 
 ## 1. Project Overview [프로젝트 개요]
 
-**1인 개발 Unity 2D Personal Project** - Vampire Survivor 모작
+인디 게임 Vampire Survivors의 모작입니다.
+
+Unity 2D로 1인 개발을 진행했습니다.
 
 개발 기간: 24.06.13 ~ 24.06.21
 
